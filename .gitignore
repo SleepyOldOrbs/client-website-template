@@ -1,0 +1,24 @@
+# Development files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
+
+# Client-specific ignores (add as needed)
+# private-notes.txt
+# client-assets-backup/
